@@ -5,9 +5,9 @@
 - 2 years of experience as a salesman and stock boy at a local Gifts Store.
 - 🌱 I’m currently learning python, c++ and basic algorithms.
 - 📫 How to reach me:
-Instagram @miguelmtome
-LinkedIn @miguel-tomé
-miguelmtome@outlook.com
+- Instagram @miguelmtome
+- LinkedIn @miguel-tomé
+- miguelmtome@outlook.com
 
 <!---
 MiguiTome/MiguiTome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
